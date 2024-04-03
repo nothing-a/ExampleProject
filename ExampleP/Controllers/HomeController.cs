@@ -17,7 +17,7 @@ namespace ExampleP.Controllers
         {
             return View();
         }
-
+        //asdadsadasd)
         public IActionResult Privacy()
         {
             return View();
